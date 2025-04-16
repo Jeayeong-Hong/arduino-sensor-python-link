@@ -21,4 +21,4 @@ This project demonstrates how to measure temperature and humidity using the DHT2
 2. Connect the Arduino to your PC via USB.
 3. Run `ReceiverPC.py` on your PC (adjust COM port as needed).
 
-
+[한국어 README 보러가기 ➡️](README_KR.md)
